@@ -22,11 +22,11 @@ Utilize todos seus conhecimentos lógicos até aqui para desenvolver uma Calcula
 
 ###### ESPECIALISTA
 
-![author](https://hermes.dio.me/users/author/photos/e0aa7c57-89e3-41ff-a60b-09dc7a9bc6e9.png)
+! - [author](https://hermes.dio.me/users/author/photos/e0aa7c57-89e3-41ff-a60b-09dc7a9bc6e9.png)
 
 ###### Felipe Aguiar
 
-Tech Educator, DIO[**](https://www.linkedin.com/in/felipe-aguiar-047/) [**](https://github.com/felipeAguiarCode)
+Tech Educator, DIO - [**](https://www.linkedin.com/in/felipe-aguiar-047/)  - [**](https://github.com/felipeAguiarCode)
 
 
 
@@ -34,13 +34,13 @@ https://web.dio.me/project/escrevendo-as-classes-de-um-jogo/learning/f65c74f3-24
 
 
 
-[**](https://web.dio.me/track/formacao-logica-de-programacao)
+ - [**](https://web.dio.me/track/formacao-logica-de-programacao)
 
 ##### Escrevendo as Classes de Um Jogo
 
 **
 
-[**](https://web.dio.me/lab/escrevendo-as-classes-de-um-jogo/learning/f65c74f3-2421-4fb5-a5b9-34a8d19b6e0e)[**](https://web.dio.me/lab/escrevendo-as-classes-de-um-jogo/learning/202d96ad-5cbe-4efe-9a2e-5ba90701314d)
+ - [**](https://web.dio.me/lab/escrevendo-as-classes-de-um-jogo/learning/f65c74f3-2421-4fb5-a5b9-34a8d19b6e0e) - [**](https://web.dio.me/lab/escrevendo-as-classes-de-um-jogo/learning/202d96ad-5cbe-4efe-9a2e-5ba90701314d)
 
 <iframe id="ytc20" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="Escrevendo as classes de um Jogo" width="100%" height="100%" src="https://www.youtube.com/embed/hiOF7ZyqynY?controls=0&amp;disablekb=1&amp;enablejsapi=1&amp;fs=0&amp;iv_load_policy=3&amp;modestbranding=1&amp;showinfo=0&amp;rel=0&amp;html5=1&amp;cc_load_policy=0&amp;origin=https%3A%2F%2Fweb.dio.me&amp;widgetid=1" data-gtm-yt-inspected-18="true" style="box-sizing: inherit; max-width: none; float: none; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-size: 14px; vertical-align: baseline;"></iframe>
 
@@ -67,7 +67,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Desafio Lançado!](https://web.dio.me/lab/escrevendo-as-classes-de-um-jogo/learning/f65c74f3-2421-4fb5-a5b9-34a8d19b6e0e)[Entendendo o Desafio](https://web.dio.me/lab/escrevendo-as-classes-de-um-jogo/learning/202d96ad-5cbe-4efe-9a2e-5ba90701314d)
+ - [Desafio Lançado!](https://web.dio.me/lab/escrevendo-as-classes-de-um-jogo/learning/f65c74f3-2421-4fb5-a5b9-34a8d19b6e0e)
+ - [Entendendo o Desafio](https://web.dio.me/lab/escrevendo-as-classes-de-um-jogo/learning/202d96ad-5cbe-4efe-9a2e-5ba90701314d)
 
 
 
